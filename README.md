@@ -1,6 +1,10 @@
 # 📊 Imersão Dados: Dashboard Interativo com Python
 Este projeto foi desenvolvido durante a Imersão Dados da Alura, com foco em análise exploratória e visualização de dados utilizando Python. O objetivo principal foi transformar dados brutos em insights visuais através de um dashboard funcional e intuitivo.
 
+<p align="center">
+  <img src="./assets/Dashboard-funcoes.gif" alt="Demonstração do Dashboard" width="800">
+</p>
+
 # 🚀 Funcionalidades
 - Análise Exploratória: Tratamento de dados e limpeza com Pandas.
 
@@ -18,9 +22,3 @@ Este projeto foi desenvolvido durante a Imersão Dados da Alura, com foco em an�
 - Plotly/Matplotlib: Criação dos gráficos estatísticos e interativos.
 
 - Streamlit: Framework utilizado para transformar o script em um app web.
-
-# 📸 Demonstração
-
-<p align="center">
-  <img img src="./assets/Dashboard-fucoes.gif" alt="Demonstração do Dashboard Interativo" width="800">
-</p>
