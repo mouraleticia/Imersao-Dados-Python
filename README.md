@@ -5,6 +5,8 @@ Este projeto foi desenvolvido durante a Imersão Dados da Alura, com foco em an�
   <img src="./assets/Dashboard-funcoes.gif" alt="Demonstração do Dashboard" width="800">
 </p>
 
+- 🔗 Abra e veja como funciona: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://imersao-dados-python-leticia.streamlit.app/)
+
 # 🚀 Funcionalidades
 - Análise Exploratória: Tratamento de dados e limpeza com Pandas.
 
